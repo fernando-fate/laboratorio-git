@@ -1,0 +1,10 @@
+
+node_modules/
+dist/
+
+# Archivos de entorno y SO
+.env
+.DS_Store
+Thumbs.db
+# Logs
+*.log
